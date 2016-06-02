@@ -1,0 +1,4 @@
+CREATE TABLE homeworkQuiz(
+    id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+    sectionId INT NOT NULL
+)

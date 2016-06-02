@@ -1,0 +1,3 @@
+[submodule "task-queue"]
+	path = task-queue
+	url = git@github.com:thoughtworks-academy/recruiting-system-task-queue.git

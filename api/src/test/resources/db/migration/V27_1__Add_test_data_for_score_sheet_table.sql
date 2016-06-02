@@ -1,0 +1,5 @@
+TRUNCATE scoreSheet;
+INSERT INTO scoreSheet VALUES (NULL ,1 ,1);
+INSERT INTO scoreSheet VALUES (NULL ,2 ,1);
+INSERT INTO scoreSheet VALUES (NULL ,4 ,2);
+INSERT INTO scoreSheet VALUES (NULL ,3 ,2);

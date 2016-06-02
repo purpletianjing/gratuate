@@ -1,0 +1,1 @@
+alter table userDetail change birhday birthday INT(11);

@@ -1,0 +1,1 @@
+ALTER TABLE userInfo RENAME TO userDetail;

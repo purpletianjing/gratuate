@@ -1,0 +1,1 @@
+alter table blankQuizScoreSheet modify column userAnswer VARCHAR(128);

@@ -1,0 +1,1 @@
+ALTER TABLE blankQuizScoreSheet ADD COLUMN paperId INT NOT NULL;

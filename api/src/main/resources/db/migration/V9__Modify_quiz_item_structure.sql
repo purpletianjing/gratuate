@@ -1,0 +1,2 @@
+ALTER TABLE quizItem
+ADD COLUMN infoPath VARCHAR(128)
